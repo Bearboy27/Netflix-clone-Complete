@@ -1,4 +1,4 @@
 <p>1)Download the repository</p>
-<p>1)Install Dependencies</p>
-<p>1)run the app</p>
-<p>1)Sign-up (Used firebase for backend)</p>
+<p>2)Install Dependencies</p>
+<p>3)run the app</p>
+<p>4)Sign-up (Used firebase for backend)</p>
